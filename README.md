@@ -1,57 +1,41 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Abdelmajid Nassiri - Personal Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![Profile Image](profilepic.jpg)
 
-### <a href="https://669e9d080c86fb1064954aae--soft-begonia-4eba06.netlify.app/">LIVE DEMO</a>
+## About Me
+Hi! I'm **Abdelmajid Nassiri**, a motivated and adaptable professional with a strong interest in public relations and organizational development. I am a recent **Economics & Management Graduate** from **Université Hassan I – Settat**. With diverse academic training in economic sciences and management, I am eager to grow professionally and contribute to impactful projects.
 
-## Resume Starter Pack Description
+- 📍 Location: Settat, Morocco
+- 📧 Email: [lambosox74@gmail.com](mailto:lambosox74@gmail.com)
+- 📞 Phone: +212 605837079
+- 🌐 Website: [Your Website](https://yourwebsite.com)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/abdelmajid-nassiri)
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
+## Professional Skills
+- **Communication:** 85%
+- **Réseautage (Networking):** 75%
+- **Microsoft Word & Excel:** 80%
+- **Gestion de dossiers (File Management):** 70%
+- **Organisation:** 75%
 
-## 1. Make sure you have NODE installed!
+## Education
+- **Université Hassan I – Settat** (2023) - Licence en Sciences Économiques et Gestion
+- **Université Hassan I – Settat** (2021) - Diplôme d’Études Universitaires Générales
+- **Lycée** (2018) - Baccalauréat en Sciences Physiques
 
-Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
+## Experience
+### Gestion de Dossiers Publics (Stage en Administration)
+- Managed public records and administrative tasks.
+- Developed strong organizational and file management skills.
+- [Project Link](https://yourwebsite.com/projects/admin-experience)
 
-## 2. Clone the repo!
+## Testimonials
+> "Abdelmajid a démontré un fort esprit d’équipe et une volonté constante d’apprendre." - Superviseur de stage
 
-Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
+## Contact
+Feel free to reach out for opportunities in administration, communication, or project coordination!
 
-`git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git`
+---
 
-## 3. Install Dependancies
-
-Next, you need to install all the dependancies using:
-
-`npm install`
-
-Once this is done, you can start the app with:
-
-`npm start`
-
-## 4. Fill in your personal info
-
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
-
-## 5. (OPTIONAL) Replacing images and/or fonts
-
-If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED else the code referencing these images will no longer work.
-
-## 7. Finalising Resume
-
-Once all the formatting and data input is finalised, run `npm run build`. This will create a dedicated build folder.
-
-## 8. Host Resume Online
-
-1. Open the build folder in the finder screen
-2. Go to <a href="https://www.netlify.com/">Netlify</a> and set up a profile
-3. Go to the 'Sites Tab'
-4. Simply Drag and drop the 'Build' Folder into the designated upload space
-5. The app will begin deploying & the deployment URL will be presented!
-
-🚀 BOOM, you are now LIVE!!!
-
-## Credits
-
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
+## License
+This website is built for GitHub Pages. You are free to use this template for your own personal portfolio.
